@@ -19,3 +19,9 @@ you can check Script help typing "-h" on the end of command:
 ```md
 python3 git_hub.py -h
 ```
+
+example use:
+
+```md
+python3 git_hub.py -r test2 -b new_branch -t 2.0.0
+```
